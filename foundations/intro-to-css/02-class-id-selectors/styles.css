@@ -1,0 +1,18 @@
+/* styles.css */
+
+.odd-p {
+    background-color:#fa8072;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#p-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+#p-4 {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: 700;
+}
+#font-24 {
+    font-size: 24px;
+}
